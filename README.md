@@ -6,7 +6,7 @@ Phalcon C tabanında yazılmış yüksek performans ve düşük tüketim sunan b
 Bu Phalcon ile çalışmanın temellerini anlamak için oluşturulmuş çok basit bir örnektir.
 
 
-Makaleyi Okumak İçin: http://muhammetarslan.com.tr/2013/12/20/phalcon-dersleri-3-ilk-uygulama
+http://muhammetarslan.com
 
 Başlarken
 -----------
